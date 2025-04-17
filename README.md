@@ -1,4 +1,3 @@
-# Maternify
 # Maternify App 👶🏽
 
 **Status:** 🚧 In Development
