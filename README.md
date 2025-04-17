@@ -25,9 +25,9 @@
 - 🌍 Multilingual interface and culturally adapted UX
 
 ## Project Timeline
-- Aug–Sep 2024: UI/UX design & prototype
-- Oct–Nov 2024: Frontend & backend development
-- Dec 2024: Testing & user feedback integration
+- Aug–Sep 2025: UI/UX design & prototype
+- Oct–Nov 2025: Frontend & backend development
+- Dec 2025: Testing & user feedback integration
 
 ---
 
